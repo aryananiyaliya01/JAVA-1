@@ -19,16 +19,16 @@ This repository contains my Java programming basics and practice programs.
 
 | Topic | File |
 |---|---|
-| Variables | Variables.txt |
-| Data Types | DataTypes.txt |
-| Operators | Operators.txt |
-| Input / Output | Input_output.txt |
-| If-Else | If_else.txt |
-| Loops | Loops.txt |
-| Methods | Method.txt |
-| Arrays | Arrays.txt |
-| Patterns | Patterns.txt |
-| Practice | Practice 1.txt |
+| Variables | Variables.java |
+| Data Types | DataTypes.java |
+| Operators | Operators.java |
+| Input / Output | Input_output.java |
+| If-Else | If_else.java |
+| Loops | Loops.java |
+| Methods | Method.java |
+| Arrays | Arrays.java |
+| Patterns | Patterns.java |
+| Practice | Practice 1.java |
 
 ## 🛠️ Technology
 
